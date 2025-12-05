@@ -1,7 +1,9 @@
 # TrabalhoFinal
 ## Trabalho final de Banco de Dados II
 
-* As atividades da aula do dia 17/11/2025 está no Branch: Parte-1
-* As atividades da aula do dia 24/11/2025 esta no Branch: Parte-2
+## Para executar as queries é necessario:
+* Executar o arquivo 'executar_queries.sh'
+
+Todos os resultados serão criados na pasta 'resultados'
 
 ### Participantes: Arthur Bonetti, Murilo Schneider
